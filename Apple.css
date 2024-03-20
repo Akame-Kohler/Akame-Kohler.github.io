@@ -1,3 +1,4 @@
+@import url(https://akame-kohler.github.io/DevBadge.css);
 @import url(https://akame-kohler.github.io/xddd.css );
 @import url(https://akame-kohler.github.io/people.css);
 @import url(https://akame-kohler.github.io/nature.css);
@@ -7,3 +8,13 @@
 @import url(https://akame-kohler.github.io/objects.css);
 @import url(https://akame-kohler.github.io/symbols.css);
 @import url(https://akame-kohler.github.io/flags.css);
+@namespace xlink 'http://www.w3.org/1999/xlink';
+.sprite__294b3 {
+	-webkit-mask: none !important;
+	background-color: transparent !important;
+	background-position: var(--custom-emoji-sprite-bg-position) !important;
+	background-size: var(--custom-emoji-sprite-bg-size) !important;
+}
+.spriteGreyscale__7b70f {
+	filter: grayscale(1) !important;
+}
